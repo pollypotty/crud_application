@@ -1,0 +1,17 @@
+.language-icon {
+    width: 30px;
+    height: auto;
+}
+
+.company-logo {
+    width: 100px;
+    height: auto;
+}
+
+.hidden-logo {
+    display: none;
+}
+
+.vertical-center {
+    vertical-align: center;
+}
