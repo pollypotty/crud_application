@@ -3,7 +3,7 @@ Application setup:
 - `git clone <repository-url>`
 - `cd <project folder>`
 - `git checkout develop`
-- create .env in project root, add: DB_USERNAME, DB_PASSWORD, MAIL_USERNAME, MAIL_PASSWORD, MAIL_FROM_ADDRESS
+- create .env in project root, add: DB_DATABASE, DB_USERNAME, DB_PASSWORD, MAIL_USERNAME, MAIL_PASSWORD, MAIL_FROM_ADDRESS
 - `composer install`
 - `sail up -d`
 - `sail npm install`
